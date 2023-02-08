@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "react-uuid": "^2.0.0",
+    "uuid": "^9.0.0",
+    "porter-stemmer": "^0.9.1",
+    "react-bottom-scroll-listener": "^5.1.0",
+    "react-query": "^3.39.2",
+    "stemmer": "^2.0.1"
+  }
+}
